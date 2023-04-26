@@ -4,4 +4,4 @@ This repositoty refers to data of a modified version of IEEE Reliability Test Sy
 
 The data includes:
 - Generation data: "DAT_GEN.txt"
-- Renewables' historical series for generating capacity factor: "DAT_SERIES_HYDRO.txt" + "DAT_SERIES_WIND.txt"
+- Renewable's historical series for generating capacity (in per unit of the nominal capacity): "DAT_SERIES_HYDRO.txt" + "DAT_SERIES_WIND.txt"
